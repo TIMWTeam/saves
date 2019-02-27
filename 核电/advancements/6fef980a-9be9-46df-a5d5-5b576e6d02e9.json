@@ -1,0 +1,38 @@
+{
+  "triumph:example/example_placed_block": {
+    "criteria": {
+      "placedDirt": "2019-02-13 03:57:54 +0800"
+    },
+    "done": true
+  },
+  "triumph:example/root": {
+    "criteria": {
+      "location": "2019-02-13 02:58:34 +0800"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-02-13 21:37:47 +0800"
+    },
+    "done": true
+  },
+  "triumph:example/example_left_click_block": {
+    "criteria": {
+      "clickedBlock": "2019-02-13 03:18:14 +0800"
+    },
+    "done": true
+  },
+  "triumph:example/example_location_worldtype": {
+    "criteria": {
+      "superflat": "2019-02-13 02:58:34 +0800"
+    },
+    "done": true
+  },
+  "triumph:vanilla/adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-02-13 02:58:34 +0800"
+    },
+    "done": false
+  }
+}
